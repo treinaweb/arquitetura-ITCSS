@@ -1,0 +1,12 @@
+@mixin minha-caixa {
+    width: 200px;
+    height: 100px;
+}
+
+@function container-width() {
+    @return 900px
+}
+
+@function margin-center($valor, $auto: auto){
+   @return $valor $auto;
+}

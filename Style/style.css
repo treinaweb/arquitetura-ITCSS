@@ -1,1 +1,38 @@
-/*# sourceMappingURL=style.css.map */
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.header {
+  width: 100%;
+  padding: 20px 0;
+  display: grid;
+  place-items: center;
+}
+
+.btn {
+  padding: 30px 15px;
+  font-size: 1.2rem;
+  border-radius: 7px;
+}
+
+.btn-primary {
+  background-color: #1fbf8b;
+}
+
+.btn-danger {
+  background-color: #ed4949;
+}
+
+.success {
+  background-color: green !important;
+  font-size: 2rem !important;
+}/*# sourceMappingURL=style.css.map */

@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"style.css"}
+{"version":3,"sources":["3-generic/_generic.scss","style.css","4-base/_base.scss","5-objects/_home.scss","6-components/_botoes.scss","1-setting/_settings.scss","7-trumps/_home.scss"],"names":[],"mappings":"AAAA;EACI,sBAAA;ACCJ;;ACFA;EACI,SAAA;EACA,UAAA;ADKJ;;ACFA;EACI,yBAAA;ADKJ;;AEXA;EACI,WAAA;EACA,eAAA;EACA,aAAA;EACA,mBAAA;AFcJ;;AGlBA;EACI,kBAAA;EACA,iBAAA;EACA,kBCDY;AJsBhB;;AGlBA;EACI,yBCPY;AJ4BhB;;AGlBA;EACI,yBCVW;AJ+Bf;;AKhCA;EACI,kCAAA;EACA,0BAAA;ALmCJ","file":"style.css"}

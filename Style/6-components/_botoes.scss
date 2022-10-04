@@ -1,0 +1,14 @@
+.btn {
+    padding: 30px 15px;
+    font-size: 1.2rem;
+    border-radius: $border-radius;
+}
+
+.btn-primary {
+    background-color: $primary-color;
+}
+
+.btn-danger {
+    background-color: $danger-color;
+}
+
