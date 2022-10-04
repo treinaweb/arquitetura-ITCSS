@@ -11,11 +11,24 @@ table {
   border-collapse: collapse;
 }
 
+a {
+  color: black;
+  text-decoration: none;
+}
+
 .header {
   width: 100%;
   padding: 20px 0;
   display: grid;
   place-items: center;
+  background-color: black;
+  color: white;
+}
+
+.box {
+  width: 400px;
+  height: 200px;
+  background-color: red;
 }
 
 .btn {
@@ -30,6 +43,11 @@ table {
 
 .btn-danger {
   background-color: #ed4949;
+}
+
+.container {
+  max-width: 900px;
+  margin: 50px auto;
 }
 
 .success {
